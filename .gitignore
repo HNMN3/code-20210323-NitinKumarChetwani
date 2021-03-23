@@ -1,4 +1,6 @@
-vamst_env
+venv
 .idea
 __pycache__
-docs
+output.json
+*egg-info
+dist
