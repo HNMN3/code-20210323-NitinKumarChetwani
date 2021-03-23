@@ -1,7 +1,7 @@
 # BMI Calculator App
 
 This application takes a list of users data including weight and height, and calculates their BMI Score, Health risk,
-and BMI Category and final stores them into JSON format.
+and BMI Category and finally stores them into JSON format.
 
 It uses the Pandas library and Vectorized operations to do the calculations which works pretty well on large set of data
 as well.
